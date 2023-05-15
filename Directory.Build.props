@@ -1,6 +1,6 @@
 <Project>
 
-  <Import Project="project.props" />
+  <Import Project=".project.props" />
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>

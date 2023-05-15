@@ -396,4 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-project.props.default
+
+# Custom medmondson
+.project.props.default
