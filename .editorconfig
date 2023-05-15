@@ -66,6 +66,10 @@ end_of_line = lf
 [Makefile]
 indent_style = tab
 
+# CSharp
+[*.cs]
+indent_style = tab
+
 ##########################################
 # Default .NET Code Style Severities
 # https://docs.microsoft.com/dotnet/fundamentals/code-analysis/configuration-options#scope
