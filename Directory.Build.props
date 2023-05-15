@@ -14,6 +14,7 @@
     <AnalysisLevel>latest-all</AnalysisLevel>
     <TreatWarningsAsErrors>True</TreatWarningsAsErrors>
     <WarningLevel>9999</WarningLevel>
+    <NoWarn>CA1724;CA1034</NoWarn>
     <IncludeContentInPack>True</IncludeContentInPack>
   </PropertyGroup>
 
