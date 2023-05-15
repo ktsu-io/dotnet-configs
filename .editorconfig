@@ -386,7 +386,7 @@ dotnet_naming_rule.sanity_check_uncovered_field_case_rule.severity = error
 #   https://docs.microsoft.com/dotnet/standard/design-guidelines/names-of-classes-structs-and-interfaces#names-of-common-types
 # - Constructors, Properties, Events, Methods
 #   https://docs.microsoft.com/dotnet/standard/design-guidelines/names-of-type-members
-dotnet_naming_symbols.element_group.applicable_kinds = namespace, class, enum, struct, delegate, event, method, property
+dotnet_naming_symbols.element_group.applicable_kinds = class, enum, struct, delegate, event, method, property
 dotnet_naming_rule.element_rule.symbols              = element_group
 dotnet_naming_rule.element_rule.style                = pascal_case_style
 dotnet_naming_rule.element_rule.severity             = error
