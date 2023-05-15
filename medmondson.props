@@ -17,6 +17,7 @@
     <None Remove=".*" />
     <None Remove="nuget.config" />
     <None Remove="medmondson.props" />
+    <None Remove="project.props.default" />
   </ItemGroup>
 
 </Project>
