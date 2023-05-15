@@ -3,10 +3,8 @@
   <PropertyGroup>
     <VersionPrefix>1.0.0</VersionPrefix>
     <VersionSuffix>alpha.01</VersionSuffix>
-    <RepositoryUrl>https://github.com/matt-edmondson/StrongStrings.git</RepositoryUrl>
-    <PackageProjectUrl>https://github.com/matt-edmondson/StrongStrings</PackageProjectUrl>
+    <RepositoryUrl></RepositoryUrl>
+    <PackageProjectUrl></PackageProjectUrl>
   </PropertyGroup>
-
-  <Import Project="medmondson.props" />
 
 </Project>
