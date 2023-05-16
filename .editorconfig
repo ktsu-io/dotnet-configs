@@ -67,7 +67,7 @@ end_of_line = lf
 indent_style = tab
 
 # CSharp
-[*.cs]
+[*.{cs,csx}]
 indent_style = tab
 
 ##########################################
